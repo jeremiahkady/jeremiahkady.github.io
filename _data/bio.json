@@ -6,7 +6,7 @@
     "email": "jeremiah.ka.dy@gmail.com",
     "phone": "808-840-7914",
     "website": "https://jeremiahkady.github.io/",
-    "summary": "I am a recent B.S. Computer Science graduate of the University of Hawai'i at Mānoa, class of 2024. I am currently looking for a entry-level software engineering position. Thanks for stopping by!",
+    "summary": "I am a B.S. Computer Science graduate of the University of Hawai'i at Mānoa, class of 2024. I am currently looking for a entry-level software engineering or systems analyst position. Thanks for stopping by!",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jeremiahkady", "url": "https://github.com/jeremiahkady" },
@@ -17,19 +17,39 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Data Engineering" },
-    { "name": "Machine Learning" },
+    { "name": "Web Application Development" },
     { "name": "Database Management" },
-    { "name": "High Performance Computing" }
+    { "name": "Systems Analysis" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "R", "C++", "MySQL", "Java", "JavaScript", "AFSIM", "HTML & CSS", "Apache Spark", "Apache Airflow" ]
+      "name": "Programming Languages",
+      "keywords": [ "Java", "JavaScript", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "GitHub", "GitLab", "Microsoft Office" ]
-    }
+      "name": "Frameworks & Libraries",
+      "keywords": [ "Spring/Spring-Boot", "Node", "Express", "React", "Java", "JavaScript", "AFSIM", "HTML & CSS", "Apache Spark", "Apache Airflow" ]
+    },
+    {
+      "name": "Markup & Styling",
+      "keywords": [ "HTML", "CSS", "MD (Markdown)" ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [ "MySQL", "MongoDB" ]
+    }, 
+    {
+      "name": "Scripting",
+      "keywords": [ "HCL", "Bash", "Groovy", "YAML" ]
+    }, 
+    {
+      "name": "Version Control",
+      "keywords": [ "Github", "GitLab" ]
+    }, 
+    {
+      "name": "Miscellaneous",
+      "keywords": [ "Microsoft Office", "MacOS", "Windows OS" ]
+    }, 
   ],
   "education": [
     {
