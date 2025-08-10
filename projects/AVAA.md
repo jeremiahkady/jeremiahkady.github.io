@@ -17,6 +17,11 @@ labels:
 summary: "AVAA is a straightforward full-stack app designed to simulate a website assistant that helps patients and medical staff schedule and manage vaccination appointments. It also provides simple data visualizations to report on appointment trends and patient demographics."
 ---
 
+## Project Overview
+
+## Tech Stack
+
+## Key Takeaways & Future Steps
 
 ## Links
 
