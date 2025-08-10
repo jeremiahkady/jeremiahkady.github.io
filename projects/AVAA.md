@@ -25,4 +25,4 @@ summary: "AVAA is a straightforward full-stack app designed to simulate a websit
 
 ## Links
 
-View the [GitHub Repository]([https://github.com/manoa-organization-database](https://github.com/jeremiahdy55/VaccineDataHub-MERN)).
+View the [GitHub Repository](https://github.com/jeremiahdy55/VaccineDataHub-MERN).
