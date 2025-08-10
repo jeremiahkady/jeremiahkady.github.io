@@ -4,7 +4,7 @@ type: project
 image: img/projects/MOD/MOD_logo.png
 title: "Manoa Organization Database"
 date: 2022-05-10
-published: true
+published: false
 labels:
   - JavaScript
   - MongoDB
