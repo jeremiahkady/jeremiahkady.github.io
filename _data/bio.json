@@ -55,13 +55,12 @@
     {
       "institution": "SynergisticIT",
       "area": "Java & Web-Application Development",
-      "studyType": "Supplemental training",
+      "studyType": "Supplemental Training",
       "startDate": "2025-02-01",
       "endDate": "Current",
       "courses": [
         "Intermediate & Advanced Java",
         "Intermediate & Advanced JavaScript",
-        "Basic SQL, MySQL, PostgreSQL",
         "Intermediate AWS DevOps CI/CD Workflows",
         "Spring Application Fundamentals",
         "Spring-Boot Application Fundamentals",
