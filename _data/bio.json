@@ -53,6 +53,22 @@
   ],
   "education": [
     {
+      "institution": "SynergisticIT",
+      "area": "Java & Web-Application Development",
+      "studyType": "Supplemental training",
+      "startDate": "2025-02-01",
+      "endDate": "Current",
+      "courses": [
+        "Intermediate & Advanced Java",
+        "Intermediate & Advanced JavaScript",
+        "Basic SQL, MySQL, PostgreSQL",
+        "Intermediate AWS DevOps CI/CD Workflows",
+        "Spring Application Fundamentals",
+        "Spring-Boot Application Fundamentals",
+        "MERN-stack Fundamentals"
+      ]
+    },
+    {
       "institution": "University of Hawai'i, Honolulu, HI",
       "area": "Computer Science, Honors: summa cum laude",
       "studyType": "B.S.",
