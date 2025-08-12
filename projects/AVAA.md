@@ -2,7 +2,8 @@
 layout: project
 type: project
 image: img/projects/AVAA/AVAA_logo.png
-title: "AVAA (Vaccination Helper Website)"
+title: "AVAA 
+Assistant for Vaccination Appointments and Analytics"
 date: 2025-08-02
 published: true
 labels:
@@ -17,7 +18,7 @@ labels:
 summary: "AVAA is a straightforward full-stack app designed to simulate a website assistant that helps patients and medical staff schedule and manage vaccination appointments. It also provides simple data visualizations to report on appointment trends and patient demographics."
 ---
 # AVAA - Assistant for Vaccination Appointments and Analytics
-<figure class="figure w-20 float-end m-2">
+<figure class="figure w-20 float-start m-2">
     <img class="img-fluid" src="../img/projects/BC_AoU/aou_logo.png" alt="All of Us Program Logo">
 </figure>
 
