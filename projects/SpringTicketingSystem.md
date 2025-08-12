@@ -57,7 +57,7 @@ This service provides notification creation and sending, as well as periodic tic
  
 ## Key Takeaways & Future Steps
 
-While not a comprehensive list, here are a few key issues that would be considered significant design flaws that would require immediate action in this project's future:
+While not a comprehensive list, here are a few key issues that require attention for future versions of the project:
 
 ### Improvements on Project Structure
  - Implement common library for dependency injection
