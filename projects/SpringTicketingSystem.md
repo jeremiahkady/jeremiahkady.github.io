@@ -76,6 +76,6 @@ While not a comprehensive list, here are a few key issues that require attention
 
 ## Links
 
-View the [Project Presentation] (https://github.com/jeremiahdy55/Spring-TicketSystem/blob/main/Ticket%20System%20Microservice%20Project%20-%20May%202025.pdf).
+View the [Project Presentation](https://github.com/jeremiahdy55/Spring-TicketSystem/blob/main/Ticket%20System%20Microservice%20Project%20-%20May%202025.pdf).
 
 View the [GitHub Repository](https://github.com/jeremiahdy55/Spring-TicketSystem).
