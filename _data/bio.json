@@ -87,26 +87,27 @@
       "company": "Baskin Robbins",
       "position": "Manager",
       "phone number": "(808) 674-0131",
-      "startDate": "2017-03-12",
-      "endDate": "2023-10-27",
+      "startDate": "2017-06-01",
+      "endDate": "2023-11-01",
       "summary": "Team leader and on-shift manager",
       "highlights": [
-        "Promoted from previous Shift Leader position",
+        "*Promoted from previous Shift Leader position*",
         "Organized and maintain inventory",
-        "Teached new employees the basic recipes and skills",
+        "Interview applicants for potential employment",
+        "Taught new employees the basic recipes and skills",
         "Customer service and conflict resolution"
       ]
     },
     {
-      "company": "University of Hawai'i, Honolulu, HI",
-      "position": "Tutor II",
-      "phone number": "(808) 956-4679",
-      "startDate": "2022-01-10",
-      "endDate": "2022-05-13",
-      "summary": "Grader and TA for MATH 307 (Linear Algebra & Differential Equations)",
+      "company": "Baskin Robbins",
+      "position": "Shift Leader",
+      "phone number": "(808) 674-0131",
+      "startDate": "2017-03-01",
+      "endDate": "2020-06-01",
+      "summary": "Team leader and on-shift manager",
       "highlights": [
-        "Grading student assignments and providing feedback",
-        "One-on-one meetings with students as requested",
+        "Taught new employees the basic recipes and skills",
+        "Customer service and conflict resolution"
       ]
     }
   ],
