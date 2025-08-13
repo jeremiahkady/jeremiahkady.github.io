@@ -58,7 +58,7 @@ This service provides the UI, user login & security, and employee data processin
 
 ### Ticket Microservice
 
-<figure class="figure float-end me-2 mt-2 mb-3">
+<figure class="figure float-start me-2 mt-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/database.png" style="height:200px;" alt="Database Access Clipart">
 </figure>
 
