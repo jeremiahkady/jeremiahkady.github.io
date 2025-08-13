@@ -19,6 +19,7 @@ summary: "AVAA is a straightforward full-stack app designed to simulate a websit
 #### AVAA - Assistant for Vaccination Appointments and Analytics
 
 ## Project Overview
+
 <figure class="figure w-50 float-end mt-2 ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/AVAA/AVAA_homepage.png" alt="AVAA Default Landing Page (Admin)">
 </figure>
