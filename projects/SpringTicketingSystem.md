@@ -31,8 +31,8 @@ This project was designed as an introductory experience to developing microservi
 
 ### Example Ticket Lifecycle
 
-<figure class="figure w-50 float-end ms-2">
-    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" alt="Ticket Lifecycle Sequence Chart">
+<figure class="figure float-end ms-2">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:250px;" alt="Ticket Lifecycle Sequence Chart">
 </figure>
 
 
