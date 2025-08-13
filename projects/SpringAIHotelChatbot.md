@@ -45,7 +45,10 @@ The project is split into three different microservice applications:
     <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/react.png" style="height:200px;" alt="React.js Logo">
 </figure>
 
-The React UI microservice techstack uses *React.js* and its related packages to build a dynamic, component-based UI, enable routing within the single-paged applications (SPA), and integrated *Bootstrap* for styling. Webpack is used to compile and bundle JS, CSS, and other static assets into optimized files that are ready to be served to the browser. *Babel* serves as the JS transpiler, converting modern JS (ES6+ features) and JSX syntax into backwards-compatible ES5 code for a wider range of browser support. 
+The React UI microservice techstack uses *React.js* and its related packages to build a dynamic, component-based UI, enable routing within the single-paged applications (SPA), and integrated *Bootstrap* for styling. Webpack is used to compile and bundle JS, CSS, and other static assets into optimized files that are ready to be served to the browser. *Babel* serves as the JS transpiler, converting modern JS (ES6+ features) and JSX syntax into backwards-compatible ES5 code for a wider range of browser support.
+
+<br>
+<br>
 
 ### Backend - Database Access
 
@@ -55,10 +58,13 @@ The React UI microservice techstack uses *React.js* and its related packages to 
 
 The backend microservice is built with Spring Boot and powered by *Spring Data JPA* for database interactions with a *PostgreSQL* instance enhanced by the *pgvector* extension for vector-based similarity search. It uses *Apache HTTP Client 5* to communicate with OpenAI’s APIs for both text responses and embedding generation. The generated embeddings are stored in the database and leveraged for semantic search (using vector cosine similarity), enabling the system to return relevant hotel or hotel-room data for natural language queries and responses. *Spring AI* helps streamline AI model integration, and *Jackson* is used for efficient JSON processing. This service is responsible for creating, retrieving, and managing all hotel, room, and booking records in the system.
 
+<br>
+<br>
+
 ### JWT Security & Authentication
 
-<figure class="figure float-end mt-3 ms-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/jwt.png" style="height:200px;" alt="JWT Logo">
+<figure class="figure w-25 float-end mt-3 ms-2 mb-3">
+    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/jwt.png" alt="JWT Logo">
 </figure>
 
 The JWT Security microservice is built with Spring Boot and powered by *Spring Security* for authentication and authorization. It uses *Spring Data JPA* with a *PostgreSQL* database for secure and efficient data persistence, and *JJWT* (Java JWT) for JSON Web Token handling. This service acts as a gateway, blocking unauthorized access to database resources and ensuring that every request from the React UI passes through token verification. JWTs are issued and validated using RSA256 signing with public and private keys. When a user logs out, the issued token is added to a “revoked list,” preventing it from being reused.
