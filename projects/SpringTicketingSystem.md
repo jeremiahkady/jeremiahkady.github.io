@@ -18,6 +18,10 @@ summary: "This multi-service application simulates a company's internal IT suppo
 
 ## Project Overview
 
+<figure class="figure float-end ms-2">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:375px;" alt="Ticket Lifecycle Sequence Chart">
+</figure>
+
 This project was designed as an introductory experience to developing microservice applications using the *Spring-Boot* framework. It models an online IT ticketing system for internal company use. Employee profiles are assigned one or more roles, each associated with possible actions and permissions:
 - USER (the default employee profile)
   - Can create IT help tickets
@@ -30,11 +34,6 @@ This project was designed as an introductory experience to developing microservi
   - Can resolve assigned tickets
 
 #### Example Ticket Lifecycle
-
-<figure class="figure float-end ms-2">
-    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:375px;" alt="Ticket Lifecycle Sequence Chart">
-</figure>
-
 
 Employees can submit IT help tickets, which are then reviewed by managers. At this stage, tickets may be approved or rejected. Approved tickets are assigned to IT support staff, who work to resolve the issue. Once a resolution is provided, the employee can either close the ticket if satisfied or reopen it for further action.
 
