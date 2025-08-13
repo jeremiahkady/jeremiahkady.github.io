@@ -19,7 +19,7 @@ summary: "This multi-service application simulates a company's internal IT suppo
 ## Project Overview
 
 <figure class="figure float-end ms-2">
-    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:375px;" alt="Ticket Lifecycle Sequence Chart">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:425px;" alt="Ticket Lifecycle Sequence Chart">
 </figure>
 
 This project was designed as an introductory experience to developing microservice applications using the *Spring-Boot* framework. It models an online IT ticketing system for internal company use. Employee profiles are assigned one or more roles, each associated with possible actions and permissions:
