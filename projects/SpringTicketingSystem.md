@@ -50,7 +50,7 @@ The project consists of three microservice applications. Each microservice is co
 
 ### Ticketing Gateway
 
-<figure class="figure w-50 float-end ms-2">
+<figure class="figure float-end ms-2">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketgateway.png" style="height:200px;" alt="User and JSP Clipart">
 </figure>
 
@@ -58,7 +58,7 @@ This service provides the UI, user login & security, and employee data processin
 
 ### Ticket Microservice
 
-<figure class="figure w-50 float-start me-2">
+<figure class="figure float-start me-2">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/database.png" style="height:200px;" alt="Database Access Clipart">
 </figure>
 
@@ -66,7 +66,7 @@ This service provides ticket data processing and email content generation functi
 
 ### Notification Microservice
 
-<figure class="figure w-50 float-end ms-2">
+<figure class="figure float-end ms-2">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/notification.png" style="height:200px;"  alt="Notification Bell Clipart">
 </figure>
 
