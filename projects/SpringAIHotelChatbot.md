@@ -20,6 +20,10 @@ summary: "This application is designed to simulate a hotel booking website that 
 
 ## Project Overview
 
+<figure class="figure w-50 float-end mt-2 ms-2 mb-3">
+    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/homepage.png" alt="Spring Hotel Chatbot Default Landing Page">
+</figure>
+
 This project implements a microservice-based application that simulates the core functionality of a hotel booking website. Key features include:
  - Hotel Information & Booking Services
     - RESTful APIs for backend processing and data retrieval
