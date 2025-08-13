@@ -17,11 +17,11 @@ labels:
 summary: "AVAA is a straightforward full-stack app designed to simulate a website assistant that helps patients and medical staff schedule and manage vaccination appointments. It also provides simple data visualizations to report on appointment trends and patient demographics."
 ---
 #### AVAA - Assistant for Vaccination Appointments and Analytics
-<figure class="figure w-25 float-end m-2">
-    <img class="img-fluid" src="../img/projects/AVAA/AVAA_logo.png" alt="AVAA Logo">
-</figure>
 
 ## Project Overview
+<figure class="figure w-50 float-end mt-2">
+    <img class="img-fluid" src="../img/projects/AVAA/AVAA_homepage.png" alt="AVAA Default Landing Page (Admin)">
+</figure>
 
 AVAA (Assistant for Vaccination Appointments and Analytics) is a proof-of-concept application built with the MERN stack (MongoDB, Express, React, Node.js) to demonstrate a functional end-to-end system for managing vaccination appointments and analytics.
 
