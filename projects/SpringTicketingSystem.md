@@ -61,7 +61,7 @@ This service provides the UI, user login & security, and employee data processin
 ### Ticket Microservice
 
 <figure class="figure float-start me-2 mt-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/database.png" style="height:200px;" alt="Database Access Clipart">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/database.png" style="height:160px;" alt="Database Access Clipart">
 </figure>
 
 This service provides ticket data processing and email content generation functionality. It implements *Spring Data JPA* for database access and *Jackson* for JSON serialization. Additionally, it subscribes and publishes messages to an *ActiveMQ* server embedded in `notificationmicroservice` to allow inter-service communication. Ticket data is collected from HTTP requests sent by `ticketinggateway` and saved into the connected MySQL database. It also generates email content to be sent via *JMS (Java Message Service)* to the *ActiveMQ* message broker, which would then be read by `notificationmicroservice`.  
