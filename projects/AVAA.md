@@ -71,4 +71,6 @@ To expand on this project into a more fully-developed production style applicati
 
 ## Links
 
+View the project's [Installation and Run steps](https://github.com/jeremiahdy55/VaccineDataHub-MERN?tab=readme-ov-file#3-installation--setup).
+
 View the [GitHub Repository](https://github.com/jeremiahdy55/VaccineDataHub-MERN).
