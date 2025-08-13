@@ -55,20 +55,13 @@ The project consists of three microservice applications. Each microservice is co
 
 This service provides the UI, user login & security, and employee data processing. It implements *Spring Security* for authentication and security and *Spring Data JPA* for database access. Employees' user data is stored and accessed from the connected *MySQL* database to create/verify user accounts/credentials. Frontend webpages are served using a MVC (Model-View-Controller) design pattern and `.jsp` files styled with *Bootstrap* styling. Should the user have more than one authorized role (such as MANAGER & ADMIN), they will have access to the functionality of both roles. Creating and updating tickets are actions sent as HTTP requests to the `ticketmicroservice` application through *jQuery* calls.
 
-<br>
-
 ### Ticket Microservice
 
-<figure class="figure float-start me-2 mt-2 mb-3">
+<figure class="figure float-end ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/mysql.png" style="height:200px;" alt="MySQL Logo">
 </figure>
 
 This service provides ticket data processing and email content generation functionality. It implements *Spring Data JPA* for database access and *Jackson* for JSON serialization. Additionally, it subscribes and publishes messages to an *ActiveMQ* server embedded in `notificationmicroservice` to allow inter-service communication. Ticket data is collected from HTTP requests sent by `ticketinggateway` and saved into the connected MySQL database. It also generates email content to be sent via *JMS (Java Message Service)* to the *ActiveMQ* message broker, which would then be read by `notificationmicroservice`.  
-
-<br>
-<br>
-<br>
-<br>
 
 ### Notification Microservice
 
