@@ -81,6 +81,8 @@ To expand on this project into a more fully-developed production style applicati
 
 ## Links
 
+View the project's [installation, setup, and run steps](https://github.com/jeremiahdy55/springAIchatbot?tab=readme-ov-file#3-installation-setup-and-run).
+
 View the [Project Presentation](https://github.com/jeremiahdy55/springAIchatbot/blob/main/Hotel%20Chatbot%20Project%20-%20June%202025.pdf).
 
 View the [GitHub Repository](https://github.com/jeremiahdy55/springAIchatbot).
