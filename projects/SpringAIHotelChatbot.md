@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/SpringAIHotelChatbot/preview_icon.png
+image: img/projects/SpringAIHotelChatbot/hotel.svg
 title: "Hotel Registry with AI-powered Chatbot"
 date: 2025-07-04
 published: true
