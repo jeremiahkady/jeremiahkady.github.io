@@ -57,7 +57,7 @@ This service provides the UI, user login & security, and employee data processin
 
 ### Ticket Microservice
 
-<figure class="figure float-end ms-2 mb-3">
+<figure class="figure float-start ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/mysql.png" style="height:200px;" alt="MySQL Logo">
 </figure>
 
