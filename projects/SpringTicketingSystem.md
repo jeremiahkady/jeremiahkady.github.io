@@ -50,7 +50,7 @@ The project consists of three microservice applications. Each microservice is co
 ### Ticketing Gateway
 
 <figure class="figure float-end ms-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketgateway.png" style="height:200px;" alt="User and JSP Clipart">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketgateway.png" style="height:150px;" alt="User and JSP Clipart">
 </figure>
 
 This service provides the UI, user login & security, and employee data processing. It implements *Spring Security* for authentication and security and *Spring Data JPA* for database access. Employees' user data is stored and accessed from the connected *MySQL* database to create/verify user accounts/credentials. Frontend webpages are served using a MVC (Model-View-Controller) design pattern and `.jsp` files styled with *Bootstrap* styling. Should the user have more than one authorized role (such as MANAGER & ADMIN), they will have access to the functionality of both roles. Creating and updating tickets are actions sent as HTTP requests to the `ticketmicroservice` application through *jQuery* calls.
