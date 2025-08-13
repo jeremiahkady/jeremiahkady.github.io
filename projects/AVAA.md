@@ -45,7 +45,7 @@ Basic analytics, such as demographic distributions by gender, age, and professio
 
 ### Backend - Express API
 
-<figure class="figure w-25 float-end ms-2 mb-3">
+<figure class="figure float-end ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/AVAA/express.png" style="height:200px;" alt="Express.js Logo">
 </figure>
 
@@ -53,7 +53,7 @@ The Express API techstack utilizes a number of modern Node packages to build a s
 
 ### Frontend - React UI
 
-<figure class="figure w-25 float-end mt-2 ms-2 mb-3">
+<figure class="figure float-end mt-2 ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" style="height:200px;" alt="React.js Logo">
 </figure>
 
