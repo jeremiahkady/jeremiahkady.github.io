@@ -41,8 +41,8 @@ The project is split into three different microservice applications:
 
 ### Frontend - React UI
 
-<figure class="figure float-end mt-3 ms-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/react.png" style="height:200px;" alt="React.js Logo">
+<figure class="figure float-end ms-2 mb-3">
+    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/react.png" style="height:150px;" alt="React.js Logo">
 </figure>
 
 The React UI microservice techstack uses *React.js* and its related packages to build a dynamic, component-based UI, enable routing within the single-paged applications (SPA), and integrated *Bootstrap* for styling. Webpack is used to compile and bundle JS, CSS, and other static assets into optimized files that are ready to be served to the browser. *Babel* serves as the JS transpiler, converting modern JS (ES6+ features) and JSX syntax into backwards-compatible ES5 code for a wider range of browser support.
@@ -53,7 +53,7 @@ The React UI microservice techstack uses *React.js* and its related packages to 
 ### Backend - Database Access
 
 <figure class="figure float-start mt-3 me-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/postgresql.png" style="height:200px;" alt="PostgreSQL Logo">
+    <img class="figure-img img-fluid" src="../img/projects/SpringAIHotelChatbot/postgresql.png" style="height:175px;" alt="PostgreSQL Logo">
 </figure>
 
 The backend microservice is built with Spring Boot and powered by *Spring Data JPA* for database interactions with a *PostgreSQL* instance enhanced by the *pgvector* extension for vector-based similarity search. It uses *Apache HTTP Client 5* to communicate with OpenAI’s APIs for both text responses and embedding generation. The generated embeddings are stored in the database and leveraged for semantic search (using vector cosine similarity), enabling the system to return relevant hotel or hotel-room data for natural language queries and responses. *Spring AI* helps streamline AI model integration, and *Jackson* is used for efficient JSON processing. This service is responsible for creating, retrieving, and managing all hotel, room, and booking records in the system.
