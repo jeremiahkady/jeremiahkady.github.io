@@ -29,7 +29,7 @@ This project was designed as an introductory experience to developing microservi
 - ADMIN
   - Can resolve assigned tickets
 
-### Example Ticket Lifecycle
+#### Example Ticket Lifecycle
 
 <figure class="figure float-end ms-2">
     <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" style="height:375px;" alt="Ticket Lifecycle Sequence Chart">
