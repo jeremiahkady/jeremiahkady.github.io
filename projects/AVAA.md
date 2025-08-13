@@ -38,12 +38,15 @@ Additionally, users with administrator privileges can create new vaccine listing
 
 Basic analytics, such as demographic distributions by gender, age, and profession, are publicly accessible to all visitors on the default landing page.
 
+<br>
+<br>
+
 ## Tech Stack
 
 ### Backend - Express API
 
 <figure class="figure w-25 float-end m-2">
-    <img class="figure-img img-fluid" src="../img/projects/AVAA/express,png" style="height:150px;" alt="Express.js Logo">
+    <img class="figure-img img-fluid" src="../img/projects/AVAA/express.png" style="height:150px;" alt="Express.js Logo">
 </figure>
 
 The Express API techstack utilizes a number of modern Node packages to build a scalable backend API. The core framework is *Express.js* which handles HTTP requests and routing. *mongoose* is used for interacting with a local *Mongo DB* database. *dotenv* manages environment variables holding sensitive information, and *cors* ensures proper cross-origin resource sharing. For authentication, the app uses *jsonwebtoken* (JWT) for token-based authentication with a graceful 5 minute token-refresh period. User's passwords are hashed using *bcryptjs*. *faker* is used for generating random mock data for development and testing. *pdfmake* is used for generating certificate PDFs for vaccination appointments, and the *AWS-SDK S3* modules are used for interacting with the AWS environment and resources, which includes uploading PDFs and generating presigned URLs for users to download from the bucket directly.
@@ -51,7 +54,7 @@ The Express API techstack utilizes a number of modern Node packages to build a s
 ### Frontend - React UI
 
 <figure class="figure w-25 float-end m-2">
-    <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" style="height:150px;" alt="React.js Logo">
+    <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" style="height:250px;" alt="React.js Logo">
 </figure>
 
 The React UI techstack utilizes a number of modern UI-related packages to build a clean, navigable client-side user experience. The core framework is *React.js* and its related packages which allows for dynamic component-based UI, routing within React, single-paged applications (SPA), and integration with *Bootstrap* for styling. *redux* is used for state management across a user's site session. *axios* is used for Promise-based communication with the Express API. *d3* is used for dynamic data visualizations. *pdfmake* is used for generating certificate PDFs on client-side (particularly for appointments that have not yet been completed).
