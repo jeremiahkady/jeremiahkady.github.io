@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/SpringTicket/preview_icon.png
+image: img/projects/SpringTicket/help_ticket.png
 title: "Internal IT Support Ticket System"
 date: 2025-06-06
 published: true
