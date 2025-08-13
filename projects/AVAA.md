@@ -53,7 +53,7 @@ The Express API techstack utilizes a number of modern Node packages to build a s
 
 ### Frontend - React UI
 
-<figure class="figure float-end mt-2 ms-2 mb-3">
+<figure class="figure float-end mt-3 ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" style="height:200px;" alt="React.js Logo">
 </figure>
 
