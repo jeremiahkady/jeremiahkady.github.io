@@ -45,7 +45,7 @@ Basic analytics, such as demographic distributions by gender, age, and professio
 
 ### Backend - Express API
 
-<figure class="figure w-25 float-end mt-2 ms-2 mb-3">
+<figure class="figure w-25 float-end ms-2 mb-3">
     <img class="figure-img img-fluid" src="../img/projects/AVAA/express.png" style="height:200px;" alt="Express.js Logo">
 </figure>
 
@@ -54,7 +54,7 @@ The Express API techstack utilizes a number of modern Node packages to build a s
 ### Frontend - React UI
 
 <figure class="figure w-25 float-end mt-2 ms-2 mb-3">
-    <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" alt="React.js Logo">
+    <img class="figure-img img-fluid" src="../img/projects/AVAA/react.png" style="height:200px;" alt="React.js Logo">
 </figure>
 
 The React UI techstack utilizes a number of modern UI-related packages to build a clean, navigable client-side user experience. The core framework is *React.js* and its related packages which allows for dynamic component-based UI, routing within React, single-paged applications (SPA), and integration with *Bootstrap* for styling. *redux* is used for state management across a user's site session. *axios* is used for Promise-based communication with the Express API. *d3* is used for dynamic data visualizations. *pdfmake* is used for generating certificate PDFs on client-side (particularly for appointments that have not yet been completed).
