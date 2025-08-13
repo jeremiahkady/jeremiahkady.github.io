@@ -31,6 +31,11 @@ This project was designed as an introductory experience to developing microservi
 
 ### Example Ticket Lifecycle
 
+<figure class="figure w-25 float-end ms-2">
+    <img class="figure-img img-fluid" src="../img/projects/SpringTicket/ticketlifecycle.png" alt="Ticket Lifecycle Sequence Chart">
+</figure>
+
+
 Employees can submit IT help tickets, which are then reviewed by managers. At this stage, tickets may be approved or rejected. Approved tickets are assigned to IT support staff, who work to resolve the issue. Once a resolution is provided, the employee can either close the ticket if satisfied or reopen it for further action.
 
 Throughout the ticket’s lifecycle, any participating employee can view the ticket’s details and complete historical record. Email notifications are automatically sent to all relevant parties whenever the ticket status changes, ensuring smooth communication and workflow.
